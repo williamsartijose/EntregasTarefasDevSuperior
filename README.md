@@ -1,7 +1,7 @@
 #  Formação Desenvolvedor Moderno
 
 
-![Web 2](https://github.com/williamsartijose/EntregaTarefasDevSuperior/blob/main/1.PNG)
+![Web 2](https://github.com/williamsartijose/EntregasTarefasDevSuperior/blob/main/1.PNG)
 #### Lógica de Programação : Visualg
 
 Introdução a programação, entrada, saída, atribuição, condicionais, loops, arrays, funções, projetos.
